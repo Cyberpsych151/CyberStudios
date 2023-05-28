@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'Iosevka';
+    src: url(ttf/iosevka-extended.ttf);
+}
+header{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+body{
+    background-color: #000000;
+}
+p{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+h1{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+h2{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+h3{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+h3{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+h4{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+h5{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+h6{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+li{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+ul{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+th{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+td{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+/* Classes */
+
+.default{
+    color: #20C20E;
+    font-family: 'Iosevka';
+}
+
+.CL{
+    list-style-type: none;
+    padding-left: 0;
+}
+.CL li::before {
+    content: ">";
+    margin-right: 5px;
+}
+
+/* Pseudo Class */
+
+a:visited {
+    text-decoration: none;
+    color: #20C20E;
+}
+a:hover{
+    color: #0e6b0e;
+}
