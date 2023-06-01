@@ -2,6 +2,9 @@
     font-family: 'Iosevka';
     src: url(ttf/iosevka-extended.ttf);
 }
+a{
+    color: color: #20C20E;
+}
 strong{
     color: #20C20E;
     font-family: 'Iosevka',Arial, sans-serif;
