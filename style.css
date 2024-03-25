@@ -11,11 +11,14 @@ header{
     font-family: 'Iosevka',Arial, sans-serif;
 }
 body{
+
     background-color: #000000;
 }
 p{
     color: #20C20E;
     font-family: 'Iosevka',Arial, sans-serif;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 h1{
     color: #20C20E;
@@ -60,6 +63,9 @@ th{
 td{
     color: #20C20E;
     font-family: 'Iosevka',Arial, sans-serif;
+}
+div {
+    word-wrap: break-word;
 }
 /* Classes */
 
