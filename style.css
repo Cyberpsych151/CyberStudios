@@ -2,6 +2,9 @@
     font-family: 'Iosevka';
     src: url(ttf/iosevka-extended.ttf);
 }
+a{
+    color: color: #20C20E;
+}
 strong{
     color: #20C20E;
     font-family: 'Iosevka',Arial, sans-serif;
@@ -95,4 +98,8 @@ a:visited {
 }
 a:hover{
     color: #0e6b0e;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> cb2b286baf27096b4337ff18559941c0ea48b039
